@@ -77,11 +77,11 @@ a:hover {
 
 #footer {
 	position: fixed;
-	width: 99%;
-	margin-top: 720px;
-	height: 60px;
+	width:99%;
+	height:60px;
+	bottom:0px;
 	background-color: #29323D;
-	font-size: 12px;
+	font-size: 16px;
 	font-family: Verdana, sans-serif;
 	color: #ffffff;
 }
