@@ -8,7 +8,7 @@ div {
 	width: 99%;
 	margin-top: -20px;
 	height: 60px;
-	background-color: #2F343B;
+	background-color: #29323D;
 	margin-bottom: 10px;
 }
 
@@ -21,10 +21,10 @@ div {
 	color: #ffffff;
 }
 
-#email{
+#email {
 	float:right;
 	margin-right: 5px;
-	padding-top: 5px;
+	padding-bottom: 5px;
 	font-size: 16px;
 	font-family: Verdana, sans-serif;
 	color: #ffffff;
@@ -33,15 +33,8 @@ div {
 h4 {
 	margin-left: 5px;
 	margin-bottom: 15px;
+	margin-top: 25px;
 	font-family: Verdana, sans-serif;
-}
-
-.right p {
-	margin-left: 5px;
-	margin-right: 5px;
-	margin-top: -10px;
-	font-family: Garamond, serif;
-	color: #000000;
 }
 
 li {
@@ -55,11 +48,9 @@ a:hover {
 .left {
 	position: fixed;
 	float: left;
-	margin-top: 50px;
-	width: 10%;
-	height: 85%;
-	background-color: #C77966;
-	margin-bottom: 10px;
+	width: 11%;
+	height: 150%;
+	background-color: #333333;
 }
 
 .right {
@@ -68,11 +59,20 @@ a:hover {
 	margin-top: 50px;
 	width: 88%;
 	height: 85%;
-	background-color: #7E827A;
+	background-color: #DDDDDD;
 	margin-bottom: 55px;
 	font-size: 16px;
 	font-family: Verdana, sans-serif;
-	color: #ffffff;
+	color: #191E23;
+}
+
+.right p {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -5px;
+	margin-bottom: 10px;
+	font-family: Garamond, serif;
+	color: #000000;
 }
 
 #footer {
@@ -80,8 +80,26 @@ a:hover {
 	width: 99%;
 	margin-top: 720px;
 	height: 60px;
-	background-color: #2F343B;
+	background-color: #29323D;
 	font-size: 12px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+#info {
+	float:left;
+	margin-left: 5px;
+	padding-bottom: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+#github {
+	float:right;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 16px;
 	font-family: Verdana, sans-serif;
 	color: #ffffff;
 }
