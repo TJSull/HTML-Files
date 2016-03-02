@@ -8,7 +8,10 @@ Relearning HTML and CSS. Creating templates to make data organization and presen
 3.2.2016 
 - Resume fits on cellphones and most computers now
 - Color template changed
-- Body test needs to be fixed to be more appealing 
+- Body test needs to be fixed to be more appealing
+
+
+
 2.15.2016 - To D
 - Format Body text (Font, Color, Boldness)
 - Fix header sizing
