@@ -12,7 +12,7 @@ Relearning HTML and CSS. Creating templates to make data organization and presen
 
 
 
-2.15.2016 - To Do
+To Do - 
 - Format Body text (Font, Color, Boldness)
 - Fix header sizing
 - Add links
